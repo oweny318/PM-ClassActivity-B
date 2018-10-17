@@ -1,0 +1,4 @@
+Go through integers 1 to 7
+Add integers after the original value until the sum is equal or greater to 15
+If the sum is equal to 15 add 1 to set
+Print set

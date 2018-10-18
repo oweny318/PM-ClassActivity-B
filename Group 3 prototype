@@ -1,0 +1,12 @@
+CODE Funcionality:
+set every possible equation to it's own variable (e.x 1+15, 1+14, 1+13, etc.), check to see which ones equal to 15.
+(likely int variables)
+
+take all the possible sums that add to 15, and add them to an array, this way we can keep all of the needed equations in one spot
+(array.add (variable name))
+
+insert a print statement that will print out all of the variables in the array. 
+(System.out.println (array);)
+
+also insert a print statement that will print out how many equations there are in total.
+(System.out.println (array.length);) (i can't remember the exact code off the top of my head :P)
